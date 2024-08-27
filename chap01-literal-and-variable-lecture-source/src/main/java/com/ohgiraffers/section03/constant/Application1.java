@@ -34,6 +34,8 @@ public class Application1 {
         /* 목차. 3. 필요한 위치에서 호출해서 사용 */
 
         System.out.println("AGE = " + AGE);
+//        souv
+
 
 
     }
